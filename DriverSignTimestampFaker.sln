@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSignTimestampFaker", "DriverSignTimestampFaker\DriverSignTimestampFaker.csproj", "{E95BF220-AF88-43CE-AB6B-1E4723AEB255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95BF220-AF88-43CE-AB6B-1E4723AEB255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95BF220-AF88-43CE-AB6B-1E4723AEB255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95BF220-AF88-43CE-AB6B-1E4723AEB255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95BF220-AF88-43CE-AB6B-1E4723AEB255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CDB2B0-B72A-4001-BDC5-2B26508D1DBE}
+	EndGlobalSection
+EndGlobal
